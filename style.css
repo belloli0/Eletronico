@@ -16,13 +16,13 @@ button {
    margin-right: auto;
    margin-left: auto;
    width: 500px;
-   height: 60px;
+   height: 65px;
    border: none;
    border-radius: 0;
    background-color: #000000;
    font-family: inherit;
    color: #ffffff;
-   font-size: 25px;
+   font-size: 30px;
    cursor: pointer;
    transition: transform 200ms ease-in-out;
 }
