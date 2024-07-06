@@ -8,8 +8,8 @@ h1 {
 }
 
 header {
-   background-color: #0000ff;
-   color: rgb(12,11,11);
+   background-color: #0000;
+   color: #fff rgb(#fff);
 }
 button {
    display: block;
