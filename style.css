@@ -8,15 +8,15 @@ h1 {
 }
 
 header {
-   background-color: #01003c;
-   color: rgb(0, 0, 0);
+   background-color: #000000;
+   color: rgb(255, 255, 255);
 }
 button {
    display: block;
    margin-right: auto;
    margin-left: auto;
-   width: 450px;
-   height: 55px;
+   width: 500px;
+   height: 60px;
    border: none;
    border-radius: 0;
    background-color: #000000;
