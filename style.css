@@ -10,4 +10,17 @@ button {
    margin-left: auto;
    width: 300px;
    height: 45px;
+   border: none;
+   border-radius: 0;
+   background-color: #0000ff;
+   font-family: inherit;
+   color: #fff;
+   font-size: 15px;
+   cursor: pointer;
+   box-shadow: 4px 4px 0px #0000;
+   transition: transform 200ms ease-in-out;
+}
+
+button:hover {
+   transform: scale(1.05);
 }
