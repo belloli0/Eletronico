@@ -17,7 +17,7 @@ button {
    font-size: 16px;
    font-weight: 600;
    color: #f41515;
-   border: 1px #710a0a solid;
+   border: 1px #ff0c0c solid;
    background-color: transparent;
    transition: all 0.5s ease;
    margin-right: auto;
@@ -30,4 +30,4 @@ button:hover {
    color: black;
    cursor: pointer;
 }
-\
+
