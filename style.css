@@ -20,10 +20,8 @@ button {
    border: 1px #f4b115 solid;
    background-color: transparent;
    transition: all 0.5s ease;
-   margin-top: 15px;
-   position: absolute;
-   top: 500px;
-   left: 400px;
+   margin-right: auto;
+   margin-left: auto;
    transition: transform 200ms ease-in-out;
 }
 
