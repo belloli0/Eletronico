@@ -12,22 +12,24 @@ header {
    color: rgb(255, 255, 255);
 }
 button {
-   display: block;
-   margin-right: auto;
-   margin-left: auto;
-   width: 200px;
-   height: 55px;
-   border: none;
-   border-radius: 50px;
-   background-color: #a50a0a;
-   box-shadow: #000000;
-   font-family: inherit;
-   color: #ffffff;
-   font-size: 20px;
-   cursor: pointer;
+   padding: 8px 40px;
+   border-radius: 5px;
+   font-size: 16px;
+   font-weight: 600;
+   color: #f4b115;
+   border: 1px #f4b115 solid;
+   background-color: transparent;
+   transition: all 0.5s ease;
+   margin-top: 15px;
+   position: absolute;
+   top: 500px;
+   left: 400px;
    transition: transform 200ms ease-in-out;
 }
 
 button:hover {
-   transform: scale(1.1);
+   background-color: #f4b115;
+   color: black;
+   cursor: pointer;
 }
+
