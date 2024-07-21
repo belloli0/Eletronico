@@ -45,13 +45,6 @@ body {
 main {
    display: flex;
    flex-direction: row;
-   justify-content: center;
+   justify-content: space-around;
    
-}
-div {
-   gap: 50px;
-   row-gap: 50px;
-}
-img {
-   gap: 50px;
 }
