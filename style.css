@@ -54,6 +54,8 @@ body {
       
       border: solid 3px white;
       border-radius: 15px;
+      gap: 50px;
    } 
-   div
+   div {
+      gap: 50px;
    }
