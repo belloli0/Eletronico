@@ -5,7 +5,6 @@ body {
 h1 {
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-size: 2rem;
-   color: rgb(0, 0, 0);
 }
 
 header {
@@ -38,8 +37,9 @@ button:hover {
    box-sizing: 0;
 }
 body {
-   background-color: #5f5f5fa8;
-}
+   width: 100vw;
+   height: 100vh;
+   background-color: rgba(128, 128, 128, 0.919);
 main {
    display: flex;
    flex-direction: row;
@@ -49,5 +49,4 @@ main {
  
    img {
       padding: 15px;
-
    } 
