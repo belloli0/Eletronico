@@ -53,5 +53,9 @@ body {
       
       border: solid 3px white;
       border-radius: 15px;
-      padding: 10px;
+     
+   }
+   div {
+      display: flex;
+      gap: 10px;
    }
