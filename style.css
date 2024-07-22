@@ -59,4 +59,5 @@ body {
    div {
       display: flex;
       gap: 50px;
+      margin-top: 5px;
    }
