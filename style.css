@@ -49,8 +49,8 @@ main {
 }
  
    img {
-      padding: 15px;
-      border: solid 5px white;
+      gap: 10px;
+      border: solid 3px white;
       border-radius: 15px;
-      border-top: 0px;
+      
    } 
