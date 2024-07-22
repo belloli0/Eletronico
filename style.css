@@ -5,6 +5,7 @@ body {
 h1 {
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-size: 2rem;
+   color: white;
 }
 
 header {
@@ -37,10 +38,7 @@ button:hover {
    box-sizing: 0;
 }
 body {
-   width: 100vw;
-   height: 100vh;
-   background-image: url('2375040-fundo-branco-moderno-vetor.jpg');
-   background-size: 100%;
+   background-color: grey;
 }
 main {
    display: flex;
@@ -51,5 +49,5 @@ main {
  
    img {
       padding: 15px;
-      filter: opacity(80%);
+
    } 
