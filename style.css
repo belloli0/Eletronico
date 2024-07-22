@@ -47,3 +47,6 @@ main {
    flex-direction: row;
    
 }
+   div {
+      justify-content: space-around;
+   }
