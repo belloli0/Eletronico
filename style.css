@@ -50,4 +50,6 @@ main {
  
    img {
       padding: 15px;
+      border: solid 8px white;
+      border-radius: 80%;
    } 
