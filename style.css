@@ -51,4 +51,5 @@ main {
  
    img {
       padding: 15px;
+      filter: opacity(80%);
    } 
