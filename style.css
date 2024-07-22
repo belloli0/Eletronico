@@ -49,6 +49,8 @@ main {
    
 }
    div {
-      display: flex;
-      justify-content: space-around;
+     padding: 10px 10px;
    }
+   img {
+      padding: 10px 10px;
+   } 
