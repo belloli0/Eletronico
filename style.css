@@ -54,6 +54,6 @@ main {
       border: solid 3px white;
       border-radius: 15px;
    } 
-   div img {
+   div : img {
       gap: 50px;
    }
