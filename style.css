@@ -60,7 +60,8 @@ body {
    }
     img:hover {
       transform: scale(1.07);
-      box-shadow: #ffffff 10px;
+      cursor: pointer;
+      box-shadow: 5px 5px 20px #fff;
     }
    div {
       display: flex;
