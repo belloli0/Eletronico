@@ -55,8 +55,13 @@ body {
       
       border: solid 3px white;
       border-radius: 15px;
+      transition: transform 300ms ease-in-out
      
    }
+    img:hover {
+      transform: scale(1.1);
+      box-shadow: #000000 10px;
+    }
    div {
       display: flex;
       gap: 50px;
