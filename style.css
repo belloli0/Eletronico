@@ -59,9 +59,9 @@ body {
      
    }
     img:hover {
-      transform: scale(1.07);
+      transform: scale(1.0);
       cursor: pointer;
-      box-shadow: 5px 5px 20px #fff;
+      box-shadow: 3px 3px 16px #fff;
     }
    div {
       display: flex;
