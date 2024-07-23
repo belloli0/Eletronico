@@ -59,7 +59,7 @@ body {
      
    }
     img:hover {
-      transform: scale(1.02);
+      transform: scale(1.05);
       cursor: pointer;
       box-shadow: 3px 3px 16px #fff;
     }
