@@ -24,14 +24,14 @@ button {
    transition: all 0.5s ease;
    margin-right: auto;
    margin-left: auto;
-   transition: transform 200ms ease-in-out;
+   transition: transform 300ms ease-in-out;
 }
 
 button:hover {
    background-color: #f41515;
    color: black;
    cursor: pointer;
-   transform: scale(1.05);
+   transform: scale(1.1);
 }
 
 * {
