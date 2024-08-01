@@ -69,14 +69,4 @@ body {
       gap: 50px;
       margin-top: 5px;
    }
-   .foter {
-      padding: 20px;
-      display: flex ;
-      justify-content: center;
-      flex-direction: column;
-
-   .button {   
-      padding: 10px;
-      display: flex;
-      justify-content: center;
-   }
+   
