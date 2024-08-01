@@ -56,7 +56,6 @@ body {
       border: solid 3px white;
       border-radius: 15px;
       transition: transform 300ms ease-in-out;
-      padding: 20px;
      
    }
     img:hover {
@@ -68,5 +67,8 @@ body {
       display: flex;
       gap: 50px;
       margin-top: 5px;
+   }
+   footer {
+      padding: 20px;
    }
    
