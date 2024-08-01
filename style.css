@@ -69,9 +69,12 @@ body {
       margin-top: 5px;
    }
    .foter {
+      padding: 20px;
+      display: flex ;
+      justify-content: center;
 
-   }
-
-   .button {
-      
+   .button {   
+      padding: 10px;
+      display: flex;
+      justify-content: center;
    }
