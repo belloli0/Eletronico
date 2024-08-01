@@ -55,7 +55,8 @@ body {
       
       border: solid 3px white;
       border-radius: 15px;
-      transition: transform 300ms ease-in-out
+      transition: transform 300ms ease-in-out;
+      padding: 20px;
      
    }
     img:hover {
@@ -72,6 +73,7 @@ body {
       padding: 20px;
       display: flex ;
       justify-content: center;
+      flex-direction: column;
 
    .button {   
       padding: 10px;
